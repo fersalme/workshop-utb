@@ -1,0 +1,8 @@
+googlemaps
+gmaps
+pandas
+openpyxl
+numpy
+matplotlib
+folium
+notebook
